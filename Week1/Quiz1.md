@@ -54,6 +54,7 @@ Total		1.00 / 1.00
 ###Question 6
 What does a positive slope indicate?
 Your Answer		Score	Explanation
+
 As X increases, Y increases	
 *A positive slope always indicates that Y is increasing with X. If Y were to decrease with increases in X, this would indicate a negative slope.*
 No association between X and Y			
