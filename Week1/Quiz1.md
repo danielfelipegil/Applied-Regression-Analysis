@@ -2,8 +2,10 @@ Question 1
 What is the sum of the deviations about the mean?
 Your Answer		Score	Explanation
 1			
+```
 0	
-Correct	1.00	Great job. It is always true that the sum of the deviations below the mean will always equal the sum of the deviations above the mean, summing to 0.
+It is always true that the sum of the deviations below the mean will always equal the sum of the deviations above the mean, summing to 0.
+```
 -1			
 5			
 -5			
@@ -16,14 +18,15 @@ Your Answer		Score	Explanation
 ∑ni=1(xi−x¯)2n−2			
 ∑ni=1x2in			
 ∑ni=1(xi−x¯)2n−1	
-Correct	1.00	Great job.
+
 Total		1.00 / 1.00	
 
 Question 3
 What theorem tells us that the shape of the sampling distribution of the sample mean will be normal?
 Your Answer		Score	Explanation
 Bayes Theorem			
-Central Limit Theorem	Correct	1.00	Great job. The Central Limit Theorem states that the distribution of a large number of independent and identically distributed variables will be approximately normal.
+Central Limit Theorem
+The Central Limit Theorem states that the distribution of a large number of independent and identically distributed variables will be approximately normal.
 Burke's Theorem			
 None of the above			
 Total		1.00 / 1.00	
@@ -34,7 +37,7 @@ Is the following interpretation of a confidence interval True or False?
 Upon repeated sampling, 95% of intervals constructed in the same way will contain the true population parameter.
 Your Answer		Score	Explanation
 True	
-Correct	1.00	
+
 False			
 Total		1.00 / 1.00	
 
