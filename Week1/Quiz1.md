@@ -2,8 +2,8 @@
 What is the sum of the deviations about the mean?
 Your Answer		Score	Explanation
 1			 
-  0	
-  It is always true that the sum of the deviations below the mean will always equal the sum of the deviations above the mean, summing to 0.
+| 0	
+| It is always true that the sum of the deviations below the mean will always equal the sum of the deviations above the mean, summing to 0.
 -1			
 5			
 -5			
