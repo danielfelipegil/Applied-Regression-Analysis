@@ -9,7 +9,7 @@ It is always true that the sum of the deviations below the mean will always equa
 -5			
 Total		1.00 / 1.00	
 
-Question 2
+###Question 2
 Which expression below will give you an unbiased estimate of the population variance?
 Your Answer		Score	Explanation
 ∑ni=1(xi−x¯)2n			
@@ -19,7 +19,7 @@ Your Answer		Score	Explanation
 
 Total		1.00 / 1.00	
 
-Question 3
+###Question 3
 What theorem tells us that the shape of the sampling distribution of the sample mean will be normal?
 Your Answer		Score	Explanation
 Bayes Theorem			
@@ -29,7 +29,7 @@ Burke's Theorem
 None of the above			
 Total		1.00 / 1.00	
 
-Question 4
+###Question 4
 Is the following interpretation of a confidence interval True or False? 
 
 Upon repeated sampling, 95% of intervals constructed in the same way will contain the true population parameter.
@@ -39,17 +39,17 @@ True
 False			
 Total		1.00 / 1.00	
 
-Question 5
+###Question 5
 Big p-values (p>.05) conclude which one of the following?
 Your Answer		Score	Explanation
 Accept the null hypothesis			
-Fail to reject the null hypothesis
+####Fail to reject the null hypothesis
 Correct	1.00	Good job! It is incorrect to ‘accept’ the null hypothesis. Statisticians will always use ‘fail to reject the null hypothesis’.
 Reject the null hypothesis			
 None of the above			
 Total		1.00 / 1.00	
 
-Question 6
+###Question 6
 What does a positive slope indicate?
 Your Answer		Score	Explanation
 As X increases, Y increases	
