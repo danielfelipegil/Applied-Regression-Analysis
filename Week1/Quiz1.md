@@ -1,5 +1,6 @@
 ###Question 1
 What is the sum of the deviations about the mean?
+
 1			 
 0
 #####It is always true that the sum of the deviations below the mean will always equal the sum of the deviations above the mean, summing to 0.
