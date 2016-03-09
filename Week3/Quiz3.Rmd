@@ -6,7 +6,7 @@ The correlation coefficient is NOT a measure of:
 3. The association between one random variable and one fixed variable in a sample 			
 4. The magnitude of the slope of the straight line relationship between X and Y 			
 5. Options 3 and 4 above. 			
-6. None of the above 	Inorrect 	0.00 	
+> 6. None of the above 	
 
 The correlation coefficient is only a measure of the strength of a relationship between ```2 random variables (a correlation)```.
 
