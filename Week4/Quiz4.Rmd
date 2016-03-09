@@ -20,7 +20,8 @@ This does not tell us anything about the model
 If you added any random variable into a model, what would happen to the sums of squares due regression?
 
 The sums of squares due regression would decrease 			
-The sums of squares due regression would increase 			
+> The sums of squares due regression would increase 
+
 The sums of squares due regression would remain the same 			
 We do not have enough information to interpret this 
 In this situation there is enough information to determine the correct answer.
