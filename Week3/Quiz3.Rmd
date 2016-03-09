@@ -18,11 +18,11 @@ Consider ρxy=1. Which of the following statements are true.
 
 Select all that apply
 
-| All of the variance in Y is explained by the regression of Y on X  	
+> All of the variance in Y is explained by the regression of Y on X  	
 With regards to ρxy=1, this statement is true.
-| he conditional variance of Y = 0 	
+> he conditional variance of Y = 0 	
 With regards to ρxy=1, this statement is true.
-| The relationship between X & Y is perfectly linear  
+> The relationship between X & Y is perfectly linear  
 With regards to ρxy=1, this statement is true.
 
 ####Question 3
@@ -31,13 +31,13 @@ The correlation coefficient is the proportion of the variance in Y explained by 
 
 True 
 ```Remember that the correlation coefficient squared is the proportion of the variance in Y explained by X```
-#####False 			
+> False 			
 
 ####Question 4
 
 If r2 is high, we can assume that there is a strong linear association between X and Y.
 
-#####True 			
+> True 			
 False 
 r2 is not a measure of the appropriateness of the straight-line model.
 
@@ -49,13 +49,13 @@ If the mean square due regression greatly exceeds the mean square due residual, 
 
 True 	
 In this case we would reject the null and conclude that there is sufficient evidence that the slope does not equal zero.
-#####False 		
+> False 		
 
 ####Question 6
 
 When looking at the STATA output of a regression of Y on X, which of the following could indicate that linear model is significantly better than the naive model?
 
 The r2 value 	Inorrect 	0.00 	The r2 value does not indicate significance.
-#####The F statistic	Correct 	0.33 	
-#####The confidence interval for the slope	Inorrect 	0.00
+> The F statistic	
+> The confidence interval for the slope	
 
