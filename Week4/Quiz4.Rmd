@@ -2,7 +2,8 @@
 Which of the following models is an example of a second order polynomial model (k=2)?
 
 y=c0+c1X+c2X3 			
-> y=c0+c1X+c2X2 	
+> y=c0+c1X+c2X2 
+
 y=c0+c1X 			
 
 #### Question 2
@@ -29,13 +30,15 @@ What is a partial F test used for in polynomial regression?
 
 To determine the amount of variability in Y explained by X 			
 > To determine if the addition of a new x2 variable to the model already containing x is significant 
+
 To determine which model best fits the data
 
 #### Question 5
 How is extra sums of squares calculated in polynomial regression?
 
 > By subtracting the due regression sums of squares for the straight line model from the due regression sums of squares for the polynomial model 	
-By subtracting the total sums of squares for the straight line model from the total sums of squares for the polynomial model 			
+By subtracting the total sums of squares for the straight line model from the total sums of squares for the polynomial model 		
+
 This cannot be calculated
 
 #### Question 6
@@ -51,7 +54,8 @@ Conclusions from t-test and partial f test are exactly equivalent.
 
 (please answer True or False below)
 Your Answer 		Score 	Explanation
-> True 			
+> True 	
+
 False 	
 
 Conclusions for both tests will be equivalent because we know that t2=F
