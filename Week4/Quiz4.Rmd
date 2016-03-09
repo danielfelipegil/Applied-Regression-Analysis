@@ -37,6 +37,7 @@ To determine which model best fits the data
 How is extra sums of squares calculated in polynomial regression?
 
 > By subtracting the due regression sums of squares for the straight line model from the due regression sums of squares for the polynomial model 	
+
 By subtracting the total sums of squares for the straight line model from the total sums of squares for the polynomial model 		
 
 This cannot be calculated
