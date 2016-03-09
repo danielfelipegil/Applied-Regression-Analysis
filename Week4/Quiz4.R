@@ -1,0 +1,58 @@
+#### Question 1
+Which of the following models is an example of a second order polynomial model (k=2)?
+
+y=c0+c1X+c2X3 			
+> y=c0+c1X+c2X2 	
+y=c0+c1X 			
+
+#### Question 2
+If you fit a polynomial regression model and obtain an overall p-value of 0.17 for the model, what does this indicate?
+
+> This model does not fit better than the naïve model 		
+
+In this instance, large p-values (>.05) indicate that the current model does not fit any better than the naïve model. If this p-value were significant at p<.05, this would indicate a better fit than the naïve model.
+This model fits better than the naïve model 			
+This model has the same fit as the naïve model 			
+This does not tell us anything about the model
+
+#### Question 3
+If you added any random variable into a model, what would happen to the sums of squares due regression?
+
+The sums of squares due regression would decrease 			
+The sums of squares due regression would increase 			
+The sums of squares due regression would remain the same 			
+We do not have enough information to interpret this 
+In this situation there is enough information to determine the correct answer.
+
+#### Question 4
+What is a partial F test used for in polynomial regression?
+
+To determine the amount of variability in Y explained by X 			
+> To determine if the addition of a new x2 variable to the model already containing x is significant 
+To determine which model best fits the data
+
+#### Question 5
+How is extra sums of squares calculated in polynomial regression?
+
+> By subtracting the due regression sums of squares for the straight line model from the due regression sums of squares for the polynomial model 	
+By subtracting the total sums of squares for the straight line model from the total sums of squares for the polynomial model 			
+This cannot be calculated
+
+#### Question 6
+You conduct a partial F-test of a polynomial term and yield an F value of 16. You compare this value to a critical value of F of 2.02. Should the polynomial term be added to the model?
+
+Yes. You reject the null and conclude the term is significant. 			
+No. You do not reject the null so the term is not significant. 	 	
+No. You reject the null and the term is not significant.
+
+#### Question 7
+
+Conclusions from t-test and partial f test are exactly equivalent.
+
+(please answer True or False below)
+Your Answer 		Score 	Explanation
+> True 			
+False 	
+
+Conclusions for both tests will be equivalent because we know that t2=F
+
