@@ -18,11 +18,14 @@ Consider ρxy=1. Which of the following statements are true.
 
 Select all that apply
 
-> All of the variance in Y is explained by the regression of Y on X  	
+> All of the variance in Y is explained by the regression of Y on X  
+
 With regards to ρxy=1, this statement is true.
-> he conditional variance of Y = 0 	
+> The conditional variance of Y = 0 	
+
 With regards to ρxy=1, this statement is true.
 > The relationship between X & Y is perfectly linear  
+
 With regards to ρxy=1, this statement is true.
 
 ####Question 3
