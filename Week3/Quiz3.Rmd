@@ -1,4 +1,4 @@
-##### Question 1
+#### Question 1
 The correlation coefficient is NOT a measure of:
 
 1. The strength of a straight line relationship between X and Y 			
@@ -8,59 +8,54 @@ The correlation coefficient is NOT a measure of:
 5. Options 3 and 4 above. 			
 6. None of the above 	Inorrect 	0.00 	
 
-Sorry this is incorrect.
-
 The correlation coefficient is only a measure of the strength of a relationship between ```2 random variables (a correlation)```.
 
 Furthermore, the correlation coefficient can tell us the direction of a slope (if R is negative, the slope will be negative), but not the magnitude of the slope (R will increase if the covariance between X & Y increases- even if the slope remains the same).
 
-#####Question 2
+####Question 2
 
 Consider ρxy=1. Which of the following statements are true.
 
 Select all that apply
 
-All of the variance in Y is explained by the regression of Y on X  	With regards to ρxy=1, this statement is true.
-The conditional variance of Y = 0 	With regards to ρxy=1, this statement is true.
-The relationship between X & Y is perfectly linear  With regards to ρxy=1, this statement is true.
+#####All of the variance in Y is explained by the regression of Y on X  	
+With regards to ρxy=1, this statement is true.
+#####The conditional variance of Y = 0 	
+With regards to ρxy=1, this statement is true.
+#####The relationship between X & Y is perfectly linear  
+With regards to ρxy=1, this statement is true.
 
-#####
-Question 3
+####Question 3
 
 The correlation coefficient is the proportion of the variance in Y explained by X.
 
 True 
 ```Remember that the correlation coefficient squared is the proportion of the variance in Y explained by X```
-False 			
+#####False 			
 
-#####
-Question 4
+####Question 4
 
 If r2 is high, we can assume that there is a strong linear association between X and Y.
 
-True 			
-False 	Correct 	1.00 	
-
-Good job!
-
+#####True 			
+False 
 r2 is not a measure of the appropriateness of the straight-line model.
 
 A non-linear model may better describe the relationship between X and Y, even if the r2 is large. 
 
-#####
-Question 5
+####Question 5
 
 If the mean square due regression greatly exceeds the mean square due residual, then we reject the null and conclude the slope is zero.
 
 True 	
 In this case we would reject the null and conclude that there is sufficient evidence that the slope does not equal zero.
-False 		
+#####False 		
 
-#####Question 6
+####Question 6
 
 When looking at the STATA output of a regression of Y on X, which of the following could indicate that linear model is significantly better than the naive model?
 
 The r2 value 	Inorrect 	0.00 	The r2 value does not indicate significance.
-```The F statistic``` 	Correct 	0.33 	
-```The confidence interval for the slope``` 	Inorrect 	0.00
+#####The F statistic	Correct 	0.33 	
+#####The confidence interval for the slope	Inorrect 	0.00
 
